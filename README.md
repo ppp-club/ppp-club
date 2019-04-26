@@ -19,9 +19,9 @@ Alle die einen Laptop haben und bedienen können und sich mit einer Programmiers
  * Laptop
  * Mindestens eine Schallplatte oder Kenntnisse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
 
-## Sponsor
+## Kosten?
 
-Die Veranstaltung wird von der [GraphHopper GmbH](https://www.graphhopper.com/) unterstützt.
+Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.graphhopper.com/), kostenfrei.
 
 ## Kontakt & Imprint
 
