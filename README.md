@@ -6,7 +6,7 @@ Bei Schallplatten und Pizza wird in entspannter Atmosphäre programmiert und üb
 
 [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda)
 
-Hoyerswerda ist auch "super" [per Bus oder Bahn erreichbar](https://www.bahn.de).
+Hoyerswerda ist auch "super" [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch 17 Minuten zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Am%20Bahnhofsvorplatz&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
 # Wann?
 
