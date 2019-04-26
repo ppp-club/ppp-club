@@ -27,4 +27,4 @@ Die Veranstaltung wird von der [GraphHopper GmbH](https://www.graphhopper.com/) 
 
 peter-ppp äat graphhopper.com
 
-https://www.graphhopper.com/imprint/
+[https://www.graphhopper.com/imprint/](https://www.graphhopper.com/imprint/)
