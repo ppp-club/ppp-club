@@ -21,7 +21,7 @@ Alle die einen Laptop haben und bedienen können und sich mit einer Programmiers
 
 ## Kosten?
 
-Die Veranstaltung ist über unseren Sponsor [GraphHopper GmbH](https://www.graphhopper.com/) kostenlos.
+Die Veranstaltung ist durch unseren Sponsor [GraphHopper GmbH](https://www.graphhopper.com/) kostenfrei.
 
 ## Kontakt & Imprint
 
