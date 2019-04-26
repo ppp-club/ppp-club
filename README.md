@@ -14,15 +14,25 @@ Jede Woche 18 bis 21 Uhr. Der Wochentag wird noch festgelegt.
 
 Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Aktuell gibt es kein Mindestalter. Erwartet wird ein respektvoller Umgang miteinander.
 
+## Kosten?
+
+Die Veranstaltung ist durch unseren Sponsor [GraphHopper GmbH](https://www.graphhopper.com/) für die Teilnehmer kostenfrei.
+
 ## Was soll mitgebracht werden?
 
  * Laptop
  * Mindestens eine Schallplatte oder Kenntnisse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
 
-## Kosten?
+## Themen
 
-Die Veranstaltung ist durch unseren Sponsor [GraphHopper GmbH](https://www.graphhopper.com/) für die Teilnehmer kostenfrei.
+Mögliche Themen könnten sein:
 
+ * Open data für Nahverkehr
+ * OpenStreetMap
+ * Open Source
+ * Routenplanung
+ * ...
+ 
 ## Kontakt & Imprint
 
 peter-ppp äat graphhopper.com
