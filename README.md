@@ -8,7 +8,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 # Wann?
 
-Jede Woche 18 bis 21 Uhr. Der Wochentag wird noch festgelegt.
+Jede Woche 18 bis 21 Uhr. Der Wochentag wird noch festgelegt. 
 
 # Wer?
 
@@ -18,6 +18,7 @@ Alle die einen Laptop haben und bedienen können und sich mit einer Programmiers
 
  * Laptop
  * Entweder eine Schallplatte oder Interesse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
+ * Snacks wie Pizza und Getränke werden gesponsert
 
 # Sponsor
 
