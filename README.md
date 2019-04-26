@@ -2,19 +2,21 @@
 
 Bei Schallplatten und Pizza wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen.
 
+# Wo?
+
+[Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda)
+
+Hoyerswerda ist auch "super" [per Bus oder Bahn erreichbar](https://www.bahn.de).
+
+# Wann?
+
+Jede Woche 18 bis 21 Uhr. Tag noch nicht festgelegt.
+
 # Wer?
 
 Alle die einen Laptop und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen.
 
 Aktuell gibt es kein Mindestalter. Erwartet wird ein respektvoller Umgang miteinander.
-
-# Wo?
-
-[Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda)
-
-# Wann?
-
-Jede Woche 18 bis 21 Uhr. Tag noch nicht festgelegt.
 
 # Was soll mitgebracht werden?
 
