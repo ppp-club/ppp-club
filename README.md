@@ -1,6 +1,6 @@
 ## Kultur & Programmieren in Hoyerswerda
 
-Bei Schallplatten und Pizza wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen.
+Bei Musik von Schallplatten wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen.
 
 # Wo?
 
@@ -22,3 +22,8 @@ Alle die einen Laptop haben und bedienen können und sich mit einer Programmiers
 # Sponsor
 
 Die Veranstaltung wird von der [GraphHopper GmbH](https://www.graphhopper.com/) unterstützt.
+
+# Kontakt & Imprint
+
+peter-ppp äat graphhopper.com
+https://www.graphhopper.com/imprint/
