@@ -1,6 +1,6 @@
 ## Kultur & Programmieren in Hoyerswerda
 
-Bei Musik von Schallplatten wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen.
+Bei Musik von Schallplatten wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen. Für das leibliche Wohl ist gesorgt.
 
 # Wo?
 
@@ -17,8 +17,7 @@ Alle die einen Laptop haben und bedienen können und sich mit einer Programmiers
 # Was soll mitgebracht werden?
 
  * Laptop
- * Entweder eine Schallplatte oder Interesse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
- * Snacks wie Pizza und Getränke werden gesponsert
+ * Mindestens eine Schallplatte oder Kenntnisse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
 
 # Sponsor
 
