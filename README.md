@@ -12,7 +12,7 @@ Jede Woche 18 bis 21 Uhr. Der Wochentag wird noch festgelegt.
 
 # Wer?
 
-Alle die einen Laptop und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Aktuell gibt es kein Mindestalter. Erwartet wird ein respektvoller Umgang miteinander.
+Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Aktuell gibt es kein Mindestalter. Erwartet wird ein respektvoller Umgang miteinander.
 
 # Was soll mitgebracht werden?
 
