@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Kultur & Programmieren in Hoyerswerda
 
-You can use the [editor on GitHub](https://github.com/graphhopper/ppp-club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bei Schallplatten und Pizza wird in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Wer?
 
-### Markdown
+Alle die einen Laptop besitzen und Interesse am Programmieren haben.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Wo?
 
-```markdown
-Syntax highlighted code block
+[Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda)
 
-# Header 1
-## Header 2
-### Header 3
+# Wann?
 
-- Bulleted
-- List
+Jede Woche 18 bis 21 Uhr. Tag noch nicht festgelegt.
 
-1. Numbered
-2. List
+# Sponsor
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/graphhopper/ppp-club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Die Veranstaltung wird von der [GraphHopper GmbH](https://www.graphhopper.com/) unterstützt.
