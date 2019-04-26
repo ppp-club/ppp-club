@@ -1,6 +1,6 @@
 # Kultur & Programmieren in Hoyerswerda
 
-Der Name ist Programm. Hier wird bei Musik von Schallplatten in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen. Für das leibliche Wohl ist gesorgt.
+Der Name "Platten, Pizza, Programmieren" ist Programm. Hier wird bei Musik von Schallplatten in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Ein Versuch Kultur und Programmieren zusammenzubringen. Alle Interessierten sind herzlich eingeladen. Für das leibliche Wohl ist gesorgt.
 
 ## Wo?
 
