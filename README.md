@@ -8,7 +8,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wann?
 
-Jede Woche 18 bis 21 Uhr. Der Wochentag wird noch festgelegt. 
+Wöchentlich? Wird noch festgelegt. 
 
 ## Wer?
 
