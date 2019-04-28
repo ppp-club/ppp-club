@@ -4,7 +4,7 @@ Der Name "Platten, Pizza, Programmieren" ist Programm. Hier wird bei Musik von S
 
 ## Wo?
 
-Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda). Hoyerswerda ist auch "super" [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch 17 Minuten zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Am%20Bahnhofsvorplatz&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
+Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch 17 Minuten zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Am%20Bahnhofsvorplatz&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
 ## Wann?
 
@@ -15,11 +15,11 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wer?
 
-Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Aktuell gibt es kein Mindestalter. Erwartet wird ein respektvoller Umgang miteinander.
+Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Kinder, Jugendliche und Erwachsene können kommen. Erwartet wird ein respektvoller Umgang miteinander.
 
 ## Kosten?
 
-Die Veranstaltung ist durch unseren Sponsor [GraphHopper GmbH](https://www.graphhopper.com/) für die Teilnehmer kostenfrei.
+Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.graphhopper.com/), für alle Teilnehmer kostenfrei.
 
 ## Was soll mitgebracht werden?
 
@@ -28,7 +28,7 @@ Die Veranstaltung ist durch unseren Sponsor [GraphHopper GmbH](https://www.graph
 
 ## Themen
 
-Mögliche Themen könnten sein:
+Mögliche Themen können sein:
 
  * Open data für Nahverkehr
  * OpenStreetMap
