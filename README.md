@@ -1,6 +1,8 @@
 # Programmieren in Hoyerswerda
 
-Der Name "Platten, Pizza, Programmieren" ist Programm. Hier wird bei Musik von Schallplatten in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Alle Interessierten sind herzlich eingeladen. Für das leibliche Wohl ist gesorgt.
+Der Name "Platten, Pizza, Programmieren" ist Programm. Hier wird bei Musik von Schallplatten in entspannter Atmosphäre programmiert und übers Programmieren debattiert. Und natürlich dürfen Getränke und Pizza nicht fehlen.
+
+Alle Interessierten sind herzlich eingeladen.
 
 ## Wo?
 
@@ -36,7 +38,7 @@ var fun = function software(yourLang) {
 }
 ```
 
-Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
+Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben verbessern kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
 
  * Open Source Software
  * Software für [OpenStreetMap](https://www.openstreetmap.org)
