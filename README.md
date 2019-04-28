@@ -56,10 +56,9 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
 [Ähnliche Projekte](./similar-projects.html).
  
-## Kontakt & Imprint
+## Kontakt
 
 ```
-Peter Karich privat
-peter-ppp <ät> graphhopper.com
-02977 Hoyerswerda - Wojerecy
+Peter Karich lebt in Hoyerswerda
+Email: peter-ppp <ät> graphhopper.com
 ```
