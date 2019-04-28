@@ -40,7 +40,7 @@ var fun = function software(yourLang) {
 }
 ```
 
-Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben verbessern kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
+Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch hier in Hoyerswerda verbessern kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
 
  * Open Source Software
  * Software für [OpenStreetMap](https://www.openstreetmap.org)
