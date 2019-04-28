@@ -55,6 +55,11 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
  * [Stackoverflow](https://stackoverflow.com/)
  * [Code.org](https://code.org)
  
+### Discover Open Source Software
+
+ * [Discover projects at Gitlab](https://gitlab.com/explore)
+ * [Discover projects at Github](https://github.com/explore)
+ 
 ## Kontakt & Imprint
 
 peter-ppp äat graphhopper.com
