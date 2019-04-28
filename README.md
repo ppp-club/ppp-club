@@ -23,7 +23,7 @@ Alle die einen Laptop haben und bedienen können und Programmieren "cool finden"
 
 ### Who?
 
-You don't speak German? No problem if you know a bit English! Join us and contact us if you have questions.
+You don't speak German? No problem if you know a bit English! Join us and contact us if you have questions. (Copy and paste this text into https://www.deepl.com)
 
 ## Kosten?
 
