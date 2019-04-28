@@ -26,14 +26,14 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
  * Laptop
  * Mindestens eine Schallplatte oder Kenntnisse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
 
-## Themen
+## Welche Themen?
 
-Mögliche Themen können sein:
+Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
 
- * Open data für Nahverkehr
- * OpenStreetMap
- * Open Source
- * Routenplanung
+ * Open Source Software
+ * Software für [OpenStreetMap](https://www.openstreetmap.org)
+ * Routenplanungssoftware
+ * Software zur Verbesserung vom Nahverkehr
  * ...
  
 ## Ähnliche Projekte in Hoyerswerda
