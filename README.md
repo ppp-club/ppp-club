@@ -59,10 +59,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 ## Kontakt & Imprint
 
 ```
-Peter Karich
+Peter Karich privat
 peter-ppp <ät> graphhopper.com
-
-GraphHopper GmbH
-Käthe-Niederkirchner-Straße 30
 02977 Hoyerswerda - Wojerecy
 ```
