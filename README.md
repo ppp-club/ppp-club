@@ -29,6 +29,7 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 ## Welche Themen?
 
 ```js
+// We want to have
 var fun = function software(yourLang) {
   alert(yourLang)
   return true;
