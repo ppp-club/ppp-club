@@ -58,7 +58,6 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  
 ## Kontakt
 
-```
 Peter Karich lebt in Hoyerswerda
+
 Email: peter-ppp <ät> graphhopper.com
-```
