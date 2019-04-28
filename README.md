@@ -40,6 +40,7 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
 
  * Das [Fabmobil](http://fabmobil.org/) besuchte 2018 wöchentlich auch Hoyerswerda
  * Ein [Meet and Code Event](https://www.lr-online.de/lausitz/hoyerswerda/im-zuse-computer-museum-hoyerswerda-wird-das-programmieren-gelehrt_aid-33612675) im Oktober 2018 [vom Zuse Museum](https://zuse-computer-museum.com/)
+ * [Jugend Hackt](https://jugendhackt.org/)
  
 ## Kontakt & Imprint
 
