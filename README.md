@@ -23,7 +23,7 @@ Alle die einen Laptop haben und bedienen können und Programmieren "cool finden"
 
 ### Who?
 
-English guests are welcome too! 
+You don't speak German? No problem if you know a bit English!
 
 ## Kosten?
 
