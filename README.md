@@ -52,8 +52,8 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
  * [First Java application](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
  * [Learn Rust](https://www.rust-lang.org/learn)
  * [Learn R lang](https://www.rstudio.com/online-learning/)
- * https://stackoverflow.com/
- * https://code.org
+ * [Stackoverflow](https://stackoverflow.com/)
+ * [Code.org](https://code.org)
  
 ## Kontakt & Imprint
 
