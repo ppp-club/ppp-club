@@ -44,9 +44,8 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
  * Open Source Software
  * Software für [OpenStreetMap](https://www.openstreetmap.org)
- * Routenplanungssoftware
+ * Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
  * Software zur Verbesserung vom Nahverkehr
- * [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
  * ...
  
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
