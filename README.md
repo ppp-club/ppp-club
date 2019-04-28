@@ -8,7 +8,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wann?
 
-18 bis 21 Uhr
+18 bis 21 Uhr. Start ist der 7. Mai 2019!
 
  * Tage im Mai: 7., 14., 21. und 28.
  * Tage im Juni: 4. und 11. - die anderen Tage sind noch nicht festgelegt
