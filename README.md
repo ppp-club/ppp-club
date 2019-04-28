@@ -55,6 +55,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 ## Kontakt & Imprint
 
 ```
+Peter Karich
 peter-ppp <ät> graphhopper.com
 
 GraphHopper GmbH
