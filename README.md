@@ -15,7 +15,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wer?
 
-Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Kinder, Jugendliche und Erwachsene können kommen. Erwartet wird ein respektvoller Umgang miteinander.
+Alle die einen Laptop haben und bedienen können und sich mit einer Programmiersprache auskennen oder eine Schallplatte mitbringen. Kinder, Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
 
 ## Kosten?
 
