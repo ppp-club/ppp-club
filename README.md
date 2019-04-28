@@ -1,6 +1,6 @@
 # Programmieren in Hoyerswerda
 
-Der Name "Platten, Pizza, Programmieren" ist Programm. Wir werden Schallplatten hören und programmieren gemeinsam in entspannter Atmosphäre. Natürlich dürfen dabei Getränke und Pizza nicht fehlen.
+Der Name "Platten, Pizza, Programmieren" ist Programm. Wir werden Schallplatten hören und programmieren gemeinsam in entspannter Atmosphäre in der Kulturfabrik. Natürlich dürfen dabei Getränke und Pizza nicht fehlen.
 
 Alle Interessierten sind herzlich eingeladen.
 
