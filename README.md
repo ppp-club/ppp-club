@@ -47,6 +47,7 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
  
 ### Programmierlern-Ressourcen
 
+ * [Getting started with JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
  * [Getting started with Python](https://www.python.org/about/gettingstarted/)
  * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
  * [First Java application](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
