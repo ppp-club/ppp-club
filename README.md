@@ -28,6 +28,13 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 
 ## Welche Themen?
 
+```Javascript
+var fun = function software(yourLang) {
+  alert(yourLang)
+  return true;
+}
+```
+
 Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
 
  * Open Source Software
