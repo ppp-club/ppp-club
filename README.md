@@ -36,6 +36,11 @@ Mögliche Themen könnten sein:
  * Routenplanung
  * ...
  
+## Ähnliche Projekte
+
+ * [Fabmobil](http://fabmobil.org/) besuchte 2018 wöchentlich auch Hoyerswerda
+ * Ein Meet and Code Event im Oktober 2018 [vom Zuse Museum](https://www.lr-online.de/lausitz/hoyerswerda/im-zuse-computer-museum-hoyerswerda-wird-das-programmieren-gelehrt_aid-33612675)
+ 
 ## Kontakt & Imprint
 
 peter-ppp äat graphhopper.com
