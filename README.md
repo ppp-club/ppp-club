@@ -45,7 +45,7 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
  * [Jugend Hackt](https://jugendhackt.org/) in Dresden (2015, 2016)
  * [Kids code](https://kidscode.de/) in Leipzig
  
-### Programmierlern-Resourcen
+### Programmierlern-Ressourcen
 
  * [Getting started with Python](https://www.python.org/about/gettingstarted/)
  * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
