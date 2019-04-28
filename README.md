@@ -54,6 +54,10 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  
 ## Kontakt & Imprint
 
-`peter-ppp <ät> graphhopper.com`
+```
+peter-ppp <ät> graphhopper.com
 
-[https://www.graphhopper.com/imprint/](https://www.graphhopper.com/imprint/)
+GraphHopper GmbH
+Käthe-Niederkirchner-Straße 30
+02977 Hoyerswerda - Wojerecy
+```
