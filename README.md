@@ -6,7 +6,7 @@ Alle Interessierten sind herzlich eingeladen.
 
 ## Wo?
 
-Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch 17 Minuten zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Am%20Bahnhofsvorplatz&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
+Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch eine 1/4 Stunde zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Bahnhofsallee%201&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
 ## Wann?
 
