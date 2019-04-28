@@ -50,6 +50,6 @@ Das Hauptthema ist die Softwareentwicklung und alles was dazu gezählt werden ka
  
 ## Kontakt & Imprint
 
-peter-ppp äat graphhopper.com
+`peter-ppp <ät> graphhopper.com`
 
 [https://www.graphhopper.com/imprint/](https://www.graphhopper.com/imprint/)
