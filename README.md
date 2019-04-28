@@ -8,7 +8,10 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wann?
 
-Wöchentlich? Wird noch festgelegt. 
+18 bis 21 Uhr
+
+ * Tage im Mai: 7., 14., 21. und 28.
+ * Tage im Juni: 4. und 11. - die anderen Tage sind noch nicht festgelegt
 
 ## Wer?
 
