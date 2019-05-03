@@ -31,8 +31,8 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 
 ## Was soll mitgebracht werden?
 
+ * Mindestens eine Schallplatte *ODER* Kenntnisse in einer beliebigen Programmiersprache
  * Laptop
- * Mindestens eine Schallplatte oder Kenntnisse an einer beliebigen Programmiersprachen. Alle Sprachen sind möglich. Aktuell Anwesende kennen sich mit Java, JavaScript und C aus.
 
 ## Welche Themen?
 
@@ -48,7 +48,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
  * Open Source Software
  * Software für [OpenStreetMap](https://www.openstreetmap.org)
- * Sprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
+ * 'Neue' Programmiersprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
  * Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
  * Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
  * ...
@@ -56,6 +56,10 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
 
 [Ähnliche Projekte](./similar-projects.html).
+
+## Presse
+
+ * [Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
  
 ## Kontakt
 
