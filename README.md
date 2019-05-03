@@ -31,7 +31,7 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 
 ## Was soll mitgebracht werden?
 
- * Mindestens eine Schallplatte *ODER* Kenntnisse in einer beliebigen Programmiersprache
+ * Kenntnisse in einer beliebigen Programmiersprache *ODER* eine Schallplatte
  * Laptop
 
 ## Welche Themen?
