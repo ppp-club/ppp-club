@@ -61,8 +61,8 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
 ## Berichterstattung über PPP
 
-[Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
-[hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
+ * [Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
+ * [hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
 
 ## Kontakt
 
