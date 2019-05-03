@@ -55,7 +55,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
 
-[Ähnliche Projekte](./similar-projects.html).
+[Ähnliche Projekte](./similar-projects.html)
 
 ## Presseberichterstattung
 
