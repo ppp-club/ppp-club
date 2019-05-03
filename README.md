@@ -1,6 +1,8 @@
 # Programmieren in Hoyerswerda
 
-Ein Programmierclub in Hoyerswerda? Der Name "Platte, Pizza, Programmieren" ist Programm. Wir werden gemeinsam in entspannter Atmosphäre programmieren und Schallplatten hören. Dabei dürfen Getränke und Pizza nicht fehlen. Das Programmierung soll dabei durch erfahrene Entwickler lebendig werden und Jugendlichen näher gebracht werden.
+Ein Programmierclub in Hoyerswerda? Ja!
+
+Der Name "Platte, Pizza, Programmieren" ist Programm. Wir werden gemeinsam in entspannter Atmosphäre programmieren und Schallplatten hören. Dabei dürfen Getränke und Pizza nicht fehlen. Das Programmierung soll dabei durch erfahrene Entwickler lebendig werden und Jugendlichen näher gebracht werden.
 
 Alle Interessierten sind herzlich eingeladen.
 
