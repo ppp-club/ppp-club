@@ -57,7 +57,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
 [Ähnliche Projekte](./similar-projects.html).
 
-## Presse
+## Presseberichterstattung
 
  * [Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
  
