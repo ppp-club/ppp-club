@@ -11,6 +11,7 @@
  
 ### Programmierlern-Ressourcen
 
+ * [Kotlin by Example](https://play.kotlinlang.org/byExample/overview) (try in browser)
  * [Getting started with JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
  * [Getting started with Python](https://www.python.org/about/gettingstarted/)
  * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
