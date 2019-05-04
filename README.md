@@ -24,7 +24,7 @@ Start ist der 7. Mai 2019! Weitere Treffen sind geplant:
 
 ## Wer?
 
-Alle die einen Laptop haben und bedienen können und Programmieren "cool finden" oder einfach eine Schallplatte mitbringen. Kinder, Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
+Alle die einen Laptop haben und bedienen können und Programmieren "cool finden". Kinder, Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
 
 ### Who?
 
