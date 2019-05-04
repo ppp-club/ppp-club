@@ -17,7 +17,8 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 Start ist der 7. Mai 2019! Weitere Treffen sind geplant:
 
  * Tage im Mai: 7., 14., 21. und 28.
- * Tage im Juni: 4. und 11. - die anderen Tage sind noch nicht festgelegt
+ * Tage im Juni: 4. und 11.
+ * Eine Fortsetzung ist geplant
 
 ## Wer?
 
