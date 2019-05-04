@@ -1,6 +1,6 @@
 # Programmieren in Hoyerswerda
 
-<img align="right" src="./assets/img/ppp-flyer.png" style="max-width: 300px"/>
+<a href="./assets/img/ppp-flyer.png"><img align="right" src="./assets/img/ppp-flyer-small.png" style="padding: 8px"/></a>
 
 Ein Programmierclub in Hoyerswerda? Ja!
 
