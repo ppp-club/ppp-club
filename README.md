@@ -6,6 +6,8 @@ Der Name "Platte, Pizza, Programmieren" ist Programm. Wir werden gemeinsam in en
 
 Alle Interessierten sind herzlich eingeladen.
 
+<img align="right" src="./img/ppp-flyer.png" />
+
 ## Wo?
 
 Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=Kulturfabrik%20Hoyerswerda). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch eine 1/4 Stunde zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Bahnhofsallee%201&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
