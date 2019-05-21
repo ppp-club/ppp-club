@@ -67,8 +67,8 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  * [Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
  * [hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
 
-## Kontakt
+## Kontakt / Impressum
 
-Peter Karich lebt in Hoyerswerda
+Peter Karich, Käthe-Niederkirchner-Straße 30, 02977 Hoyerswerda
 
 Email: peter-ppp <ät> graphhopper.com
