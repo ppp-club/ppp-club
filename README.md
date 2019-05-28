@@ -16,11 +16,17 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 18 bis 21 Uhr.
 
-Start ist der 7. Mai 2019! Weitere Treffen sind geplant:
-
  * Tage im Mai: 7., 14., 21. und 28.
  * Tage im Juni: 4. und 11.
- * Eine Fortsetzung ist geplant
+ * Tage im Juli: 22., 23., 24. siehe Programmierworkshop im Fabmobil
+ * Tage im August: vorraussichtlich nur der 23.
+ * to be continued ...
+ 
+### Sommer Programmierworkshop im Fabmobil
+
+Der PPP Club & [Fabmobil](http://fabmobil.org/) & Kufa präsentieren den *Programmierworkshop im Fabmobil*!
+
+Das Fabmobil und der PPP Club Hoyerswerda laden zum Programmieren lernen, gemeinsamen Programmieren, 3D Drucken und Robotikverstehen ein. Es werden keine Programmierkenntnisse o.ä. vorrausgesetzt. Bei Interesse an der Kufa einfach vorbeikommen. In den Sommerferien vom 22. bis 24.07.2019 von 10 bis 17 Uhr.
 
 ## Wer?
 
