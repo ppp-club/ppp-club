@@ -18,7 +18,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
  * Tage im Mai: 7., 14., 21. und 28.
  * Tage im Juni: 4. und 11.
- * Tage im Juli: 22., 23., 24. siehe [Programmierworkshop im Fabmobil](./#programmierworkshop-im-fabmobil)
+ * Tage im Juli: 22., 23., 24. siehe [Programmierworkshop im Fabmobil](./README.md#programmierworkshop-im-fabmobil)
  * Tage im August: vorraussichtlich nur der 23.
  * to be continued ...
 
