@@ -14,13 +14,20 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wann?
 
-18 bis 21 Uhr.
+
+Der [Programmierworkshop im Fabmobil](./README.md#programmierworkshop-im-fabmobil) findet am 22., 23. und 24. Juli statt.
+
+Mit dem PPP Club geht es im August alle 2 Wochen weiter. Allerdings von 16 bis 19 Uhr:
+
+ * Tage im August: 20.
+ * Tage im September: 3. und 17.
+ * Tage im Oktober: 1. und 29.
+ * usw (wird im September konkretisiert)
+
+Alte Termine (18 bis 21 Uhr)
 
  * Tage im Mai: 7., 14., 21. und 28.
  * Tage im Juni: 4. und 11.
- * Tage im Juli: 22., 23., 24. siehe [Programmierworkshop im Fabmobil](./README.md#programmierworkshop-im-fabmobil)
- * Tage im August: vorraussichtlich nur der 23.
- * to be continued ...
 
 ## Wer?
 
