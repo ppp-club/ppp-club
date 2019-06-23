@@ -73,7 +73,7 @@ Siehe [ähnliche Projekte](./similar-projects.html)
 
 Das [Fabmobil](http://fabmobil.org/), der PPP Club und die [Kufa](https://www.kufa-hoyerswerda.de/) präsentieren den Programmierworkshop im Fabmobil.
 
-Wir laden in den Sommerferien vom 22. bis 24.07.2019 zum Programmieren lernen, gemeinsamen Programmieren, 3D Drucken und Robotikverstehen ein. Dabei werden keine Programmierkenntnisse o.ä. vorrausgesetzt. Bei Interesse einfach bei der Kufa vorbeischauen. Der Workshop geht von 10 bis 17 Uhr.
+Wir laden in den Sommerferien vom 22. bis 24.07.2019 zum Programmieren lernen, gemeinsamen Programmieren, 3D Drucken und Robotikverstehen ein. Dabei werden keine Programmierkenntnisse o.ä. vorrausgesetzt. Bei Interesse einfach bei der Kufa vorbeischauen. Der Workshop geht von 10 bis 16 Uhr.
 
 ## Berichterstattung über PPP
 
