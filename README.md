@@ -15,7 +15,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 ## Wann?
 
 
-Der [Programmierworkshop im Fabmobil](./README.md#programmierworkshop-im-fabmobil) findet am 22., 23. und 24. Juli statt. Anmeldung unter peter-ppp@graphhopper.com. Es fallen keine Kosten an. Mehr Details weiter unten.
+Der [Programmierworkshop im Fabmobil](./README.md#programmierworkshop-im-fabmobil) findet am 22., 23. und 24. Juli statt (10-16 Uhr). Anmeldung unter peter-ppp@graphhopper.com. Es fallen keine Kosten an. Mehr Details weiter unten.
 
 Mit dem PPP Club geht es im August alle 2 Wochen weiter. Allerdings von 16 bis 19 Uhr:
 
