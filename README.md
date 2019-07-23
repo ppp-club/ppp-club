@@ -79,8 +79,10 @@ Anmeldung unter peter-ppp@graphhopper.com. Es fallen keine Kosten an.
 
 ## Berichterstattung über PPP
 
- * [Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
- * [hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
+ * [Mai 2019, Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
+ * [Mai 2019, hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
+ * [Juli 2019, Sächsische Zeitung](https://www.saechsische.de/plus/programmierclub-und-fabmobil-in-einem-hoyerswerda-5097719.html)
+* [Juli 2019, Lausitzer Rundschau](https://www.lr-online.de/lausitz/hoyerswerda/das-fabmobil-bringt-die-zukunft-nach-hoyerswerda_aid-44292517)
 
 ## Kontakt / Impressum
 
