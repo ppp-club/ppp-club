@@ -64,9 +64,9 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  * [Calliope](https://calliope.cc) oder [ESP32](https://de.wikipedia.org/wiki/ESP32) Programmierung
  * ...
 
-## Alter Versionen dieser Seite
+## Alte Versionen
 
-Finden sich [hier](https://github.com/graphhopper/ppp-club/commits/master)
+Alte Versionen dieser Seite finden sich [hier](https://github.com/graphhopper/ppp-club/commits/master).
 
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
 
