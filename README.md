@@ -22,7 +22,9 @@ Mit dem PPP Club geht es im August alle 2 Wochen weiter. Allerdings von 16 bis 1
  * Tage im August: 20.
  * Tage im September: 3. und 17.
  * Tage im Oktober: 1. und 29.
- * usw (wird im September konkretisiert)
+ * Tage im November: 12. und 26. ([First Lego League am 30.11. in Cottbus](https://wirtschaftsregion-lausitz.de/de/news_/veranstaltungen/artikel-first-lego-league-regionalwettbewerb.html))
+ * Tage im Dezember: 3. und 17.
+ * usw (wird im November konkretisiert)
 
 Alte Termine (18 bis 21 Uhr)
 
