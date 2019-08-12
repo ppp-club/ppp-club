@@ -61,6 +61,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  * 'Neue' Programmiersprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
  * Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
  * Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
+ * [Calliope](https://calliope.cc) oder [ESP32](https://de.wikipedia.org/wiki/ESP32) Programmierung
  * ...
  
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
