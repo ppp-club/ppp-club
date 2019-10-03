@@ -70,7 +70,9 @@ Alte Versionen dieser Seite finden sich [hier](https://github.com/graphhopper/pp
 
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
 
-Siehe [ähnliche Projekte](./similar-projects.html)
+Das Zuse-Museum bietet oft [interessante Veranstaltungen](https://zuse-computer-museum.com/angebote/veranstaltungen/) für Jung und Alt. 
+
+Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet.
 
 ## Berichterstattung über PPP
 
