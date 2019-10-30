@@ -16,17 +16,15 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 Mit dem PPP Club geht es im August alle 2 Wochen weiter. Von 16 bis 19 Uhr:
 
- * Tage im August: 20.
- * Tage im September: 3. und 17.
- * Tage im Oktober: 1. und 29.
  * Tage im November: 12. und 26. ([First Lego League am 30.11. in Cottbus](https://wirtschaftsregion-lausitz.de/de/news_/veranstaltungen/artikel-first-lego-league-regionalwettbewerb.html))
  * Tage im Dezember: 3. und 17.
- * usw (wird im November konkretisiert)
-
-Alte Termine (18 bis 21 Uhr)
-
- * Tage im Mai: 7., 14., 21. und 28.
- * Tage im Juni: 4. und 11.
+ * Tage im Januar 2020: 7. und 21.
+ * Tage im Februar: 4. und 25.
+ * Tage im März: 10. und 24.
+ * Tage im April: 7. und 21.
+ * Tage im Mai: 5. und 19.
+ * Tage im Juni: 2. und 16. und 30.
+ * Tage im Juli: 14.
 
 ## Wer?
 
