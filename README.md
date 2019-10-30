@@ -14,7 +14,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 ## Wann?
 
-Mit dem PPP Club geht es im August alle 2 Wochen weiter. Von 16 bis 19 Uhr:
+Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
  * Tage im November: 12. und 26. ([First Lego League am 30.11. in Cottbus](https://wirtschaftsregion-lausitz.de/de/news_/veranstaltungen/artikel-first-lego-league-regionalwettbewerb.html))
  * Tage im Dezember: 3. und 17.
