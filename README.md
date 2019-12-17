@@ -17,7 +17,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
  * Tage im November: 12. und 26. ([First Lego League am 30.11. in Cottbus](https://wirtschaftsregion-lausitz.de/de/news_/veranstaltungen/artikel-first-lego-league-regionalwettbewerb.html))
- * Tage im Dezember: 3. und 17.
+ * Tage im Dezember: 3. (der 17. entfällt durch Krankheit)
  * Tage im Januar 2020: 7. und 21.
  * Tage im Februar: 4. und 25.
  * Tage im März: 10. und 24.
