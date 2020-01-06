@@ -19,7 +19,7 @@ Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
  * Tage im November: 12. und 26. ([First Lego League am 30.11. in Cottbus](https://wirtschaftsregion-lausitz.de/de/news_/veranstaltungen/artikel-first-lego-league-regionalwettbewerb.html))
  * Tage im Dezember: 3. (der 17. entfällt durch Krankheit)
  * Tage im Januar 2020: 7. und 21.
- * Tage im Februar: 4. (entfällt) und 25.
+ * Tage im Februar: 25. (leider muss der 4. Februar entfallen)
  * Tage im März: 10. und 24.
  * Tage im April: 7. und 21.
  * Tage im Mai: 5. und 19.
