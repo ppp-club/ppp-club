@@ -68,6 +68,8 @@ Alte Versionen dieser Seite finden sich [hier](https://github.com/graphhopper/pp
 
 Das Zuse-Computer-Museum bietet oft [interessante Veranstaltungen](https://zuse-computer-museum.com/angebote/veranstaltungen/) mit "Computer-Bezug" für Jung und Alt. 
 
+In Spremberg gibt es das Projekt ["Offene Werkstatt"](https://www.owspremberg.de).
+
 Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet.
 
 ## Berichterstattung über PPP
