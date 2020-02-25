@@ -16,13 +16,12 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
- * Tage im Januar 2020: 7. und 21. und neu: 28. (da ein Termin im Februar entfällt)
- * Tage im Februar: 25. (leider muss der 4. Februar entfallen)
  * Tage im März: 10. und 24.
  * Tage im April: 7. und 21.
  * Tage im Mai: 5. und 19.
  * Tage im Juni: 2. und 16. und 30.
  * Tage im Juli: 14.
+ * Programm in den Sommerferien noch unklar
 
 ## Wer?
 
