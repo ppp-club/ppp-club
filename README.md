@@ -37,7 +37,7 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 
 ## Was soll mitgebracht werden?
 
-Von Vorteil sind Kenntnisse in einer Programmiersprache und ein Laptop. Jedoch ist das nicht zwingend erforderlich. Gern gesehen sind daher ausdrücklich auch Menschen ohne Erfahrung oder ohne Computer.
+Von Vorteil sind Kenntnisse in einer Programmiersprache und ein Laptop. Jedoch keine Pflicht.
 
 ## Welche Themen?
 
