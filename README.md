@@ -16,7 +16,7 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
-*aus aktuellem Anlass kann der PPP Club nur noch [online stattfinden](https://discord.gg/Na8PXt)*
+*aus aktuellem Anlass kann der PPP Club nur noch [online stattfinden](https://discord.gg/TGYPud)*
 
  * Tage im März: 24.
  * Tage im April: 7. und 21.
