@@ -20,7 +20,7 @@ Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
  * Tage im Juni: 2. und 16. und 30.
  * Tage im Juli: 14.
- * Der Club findet nicht in den Sommerferien statt, allerdings gibt es [ein Programm](https://tagwerk.space/lnow2020) durch die Zusammenarbeit vom [Zuse-Museum](https://zuse-computer-museum.com/) und [FabMobil](http://fabmobil.org/).
+ * Der Club findet nicht in den Sommerferien statt. Allerdings gibt es das [Lausitzer Netzwerktreffen offener Werkstätten](https://tagwerk.space/lnow2020) durch die Zusammenarbeit vom [Zuse-Museum](https://zuse-computer-museum.com/) und [FabMobil](http://fabmobil.org/).
 
 ## Wer?
 
