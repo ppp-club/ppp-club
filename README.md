@@ -24,7 +24,7 @@ Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
 ## Wer?
 
-Alle die einen Laptop haben und bedienen können und Programmieren "cool finden". Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
+Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
 
 ### Who?
 
@@ -36,7 +36,7 @@ Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.
 
 ## Was soll mitgebracht werden?
 
-Von Vorteil sind Kenntnisse in einer Programmiersprache und ein Laptop. Jedoch keine Pflicht.
+Nur ein Interesse an Computern oder Programmieren ist erforderlich. Falls vorhanden, kann auch der eigene Laptop mitgebracht werden.
 
 ## Welche Themen?
 
