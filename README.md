@@ -16,11 +16,11 @@ Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?p
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
-*der PPP Club findet wieder vor Ort in der Kufa in Hoyerswerda statt*
-
- * Tage im Juni: 2. und 16. und 30.
- * Tage im Juli: 14.
  * Der Club findet nicht in den Sommerferien statt. Allerdings gibt es das [Lausitzer Netzwerktreffen offener Werkstätten](https://tagwerk.space/lnow2020) durch die Zusammenarbeit vom [Zuse-Museum](https://zuse-computer-museum.com/) und [Fabmobil](http://fabmobil.org/).
+ * Tage im September: 1. und 15. und 29.
+ * Tage im Oktober: 13.
+ * Tage im November: 3. und 17.
+ * Tage im Dezember: 1. und 15.
 
 ## Wer?
 
