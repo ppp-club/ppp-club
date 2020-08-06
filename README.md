@@ -12,11 +12,12 @@ Alle Interessierten sind herzlich eingeladen.
 
 Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=51.438902%2C14.245647). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch eine 1/4 Stunde zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Bahnhofsallee%201&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
+Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rechts). Für den 1. und 15. September 2020 findet der Club in der Medienwerkstatt statt: Treppe hoch und dann links den Gang hinter.
+
 ## Wann?
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
- * Der Club findet nicht in den Sommerferien statt. Allerdings gibt es das [Lausitzer Netzwerktreffen offener Werkstätten](https://tagwerk.space/lnow2020) durch die Zusammenarbeit vom [Zuse-Museum](https://zuse-computer-museum.com/) und [Fabmobil](http://fabmobil.org/).
  * Tage im September: 1. und 15. und 29.
  * Tage im Oktober: 13.
  * Tage im November: 3. und 17.
