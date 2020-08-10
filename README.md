@@ -16,6 +16,8 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 ## Wann?
 
+Neu: bitte beachtet die Veranstaltungen in den Ferien im ZCOM: [Open lab am 13.08. um 13 Uhr](https://zuse-computer-museum.com/brueckenbauer/) und [ZCOM 3D 11.08. um 14 Uhr](https://zuse-computer-museum.com/wp-content/uploads/2020/07/Flyer-virt-Tour_Ferien.pdf).
+
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
  * Tage im September: 1. und 15. und 29.
