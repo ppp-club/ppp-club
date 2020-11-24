@@ -12,11 +12,11 @@ Alle Interessierten sind herzlich eingeladen.
 
 Im Seminarraum der [Kulturfabrik in Hoyerswerda](https://graphhopper.com/maps/?point=&point=51.438902%2C14.245647). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch eine 1/4 Stunde zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Bahnhofsallee%201&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
-Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rechts). Für den 1. und 15. September 2020 findet der Club in der Medienwerkstatt statt: Treppe hoch und dann links den Gang hinter.
+Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rechts). 
 
 ## Wann?
 
-Neu: bitte beachtet die Veranstaltungen in den Ferien im ZCOM: [Open lab am 13.08. um 13 Uhr](https://zuse-computer-museum.com/brueckenbauer/) und [ZCOM 3D 11.08. um 14 Uhr](https://zuse-computer-museum.com/wp-content/uploads/2020/07/Flyer-virt-Tour_Ferien.pdf).
+**Beachte**: der PPP Club findet wieder virtuell statt: https://discord.com/invite/QUUqvxQ
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
