@@ -20,10 +20,9 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
- * Tage im September: 1. und 15. und 29.
- * Tage im Oktober: 13.
- * Tage im November: 3. und 17.
- * Tage im Dezember: 1. und 15.
+ * Tage im Februar: 2. und 23.
+ * Tage im März: 9. und 23.
+ * Tage im April: 13. und 27.
 
 ## Wer?
 
@@ -54,6 +53,7 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
 
  * Open Source Software
  * Software für [OpenStreetMap](https://www.openstreetmap.org)
+ * Softwarenutzung in der Schule wie z.B. das [Bildungspaket von Digitalcourage](https://digitalcourage.de/kinder-und-jugendliche/bildungspaket).
  * 'Neue' Programmiersprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
  * Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
  * Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
