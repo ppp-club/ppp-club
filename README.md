@@ -59,6 +59,17 @@ Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch 
  * Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
  * [Calliope](https://calliope.cc) oder [ESP32](https://de.wikipedia.org/wiki/ESP32) Programmierung
  * ...
+ 
+## Projekte
+
+ * [Potat0Map](https://github.com/UnrealValentin/potato-maps)
+ * [socket test](https://github.com/karussell/socket-testing)
+ * [IoT test](https://github.com/karussell/iot-test) (via VSCode)
+ * Aufsetzen einer [BBB](https://github.com/bigbluebutton/bbb-install) Instanz für z.B. Fernunterricht
+ * Probiere andere [Webseite](https://github.com/Brandenburger-Maker/Brandenburger-Maker.github.io) als Grundlage für PPP
+ * telegram bot
+ * Mit godot game engine spielen
+ * Mit dem neuen "code with me Feature" von IntelliJ spielen
 
 ## Alte Versionen
 
