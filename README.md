@@ -16,13 +16,16 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 ## Wann?
 
-**Beachte**: der PPP Club findet wieder virtuell statt: https://discord.com/invite/QUUqvxQ
+Im Juni findet ein Vortrag vom PPP Club zum Thema Digitale Bildung und Open Source statt. Der genaue Termin wird noch bekannt gegeben.
+
+Der PPP Club findet wieder virtuell statt: https://discord.com/invite/QUUqvxQ
 
 Der PPP Club findet von 16 bis 19 Uhr alle 2 Wochen statt:
 
- * Tage im Februar: 2. und 23.
- * Tage im März: 9. und 23.
  * Tage im April: 13. und 27.
+ * Tage im Mai: 11. und 25.
+ * Tage im Juni: 8. und 22.
+ * Tage im Juli: 6. und 20.
 
 ## Wer?
 
