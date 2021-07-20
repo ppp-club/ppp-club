@@ -89,6 +89,10 @@ Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet
  * [Juli 2019, Sächsische Zeitung](https://www.saechsische.de/plus/programmierclub-und-fabmobil-in-einem-hoyerswerda-5097719.html)
 * [Juli 2019, Lausitzer Rundschau](https://www.lr-online.de/lausitz/hoyerswerda/das-fabmobil-bringt-die-zukunft-nach-hoyerswerda_aid-44292517)
 
+## Since
+
+2019 - 2021
+
 ## Kontakt / Impressum
 
 Peter Karich, Käthe-Niederkirchner-Straße 30, 02977 Hoyerswerda
