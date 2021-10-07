@@ -23,6 +23,8 @@ Der PPP Club findet von 15 bis 18 Uhr alle 2 Wochen statt:
  * Tage im November: 2. und 16. und 30.
  * Tage im Dezember: 14.
 
+Gerne auch einen Blick auf die Workshops vom ZCOM werfen, z.B. [die intelligente Museums-App](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/veranstaltungen/2021-11-06-smart-kids).
+
 ## Wer?
 
 Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
