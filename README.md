@@ -16,14 +16,13 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 ## Wann?
 
-Der PPP Club findet von 15 bis 18 Uhr alle 2 Wochen statt:
+Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
- * Tage im September: 14. und 28.
- * Tage im Oktober: 12. 
- * Tage im November: 2. und 16. und 30.
- * Tage im Dezember: 14.
-
-Gerne auch einen Blick auf die Workshops vom ZCOM werfen, z.B. [die intelligente Museums-App](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/veranstaltungen/2021-11-06-smart-kids).
+ * 16.11. [in der Kulturfabrik](https://graphhopper.com/maps/?point=&point=kufa%20hoyerswerda)
+ * 30.11. [im Zuse-Computer-Museum ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) (endet wie immer 18 Uhr in der Kufa)
+ * 14.12. in der Kufa
+ * 4.1. und 18.1. in der Kufa
+ * 27.01. im ZCOM im Rahmen des [Openlabs](https://zuse-computer-museum.com/angebote/veranstaltungen/). Donnerstag.
 
 ## Wer?
 
