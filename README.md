@@ -21,7 +21,7 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
  * 16.11. [in der Kulturfabrik](https://graphhopper.com/maps/?point=&point=kufa%20hoyerswerda)
  * 30.11. [im Zuse-Computer-Museum ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) (endet wie immer 18 Uhr in der Kufa)
  * 14.12. in der Kufa
- * 4.1. und 18.1. in der Kufa
+ * 4.1. und 18.1. in der Kufa (vorraussichtlich nur via discord)
  * 27.01. im ZCOM im Rahmen des [Openlabs](https://zuse-computer-museum.com/angebote/veranstaltungen/). Donnerstag.
 
 ## Wer?
