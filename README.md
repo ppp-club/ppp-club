@@ -25,8 +25,8 @@ Januar:
 
 Februar:
 
- * 1. und 15. in der Kufa
- * 10. und 24. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda)
+ * 1.2. und 15.2. in der Kufa
+ * 10.2. und 24.2. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda)
 
 ## Wer?
 
