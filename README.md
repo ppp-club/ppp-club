@@ -25,9 +25,13 @@ Januar:
 
 Februar:
 
- * 1.2. und 15.2. in der Kufa
- * 10.2. und 24.2. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda)
+ * 1.2. in der Kufa
+ * 24.2. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) (Open Lab. Kunst mit dem Penplotter)
 
+März:
+
+ * 1. und 15. und 29. in der Kufa
+ 
 ## Wer?
 
 Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
