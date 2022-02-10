@@ -30,7 +30,9 @@ Februar:
 
 März:
 
- * 1. und 15. und 29. in der Kufa
+ * 1.3. in der Kufa
+ * 15.3. in der Kufa
+ * 29.3. in der Kufa
  
 ## Wer?
 
