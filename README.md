@@ -18,15 +18,10 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-Januar:
-
- * 18.1. in der Kufa (nur Kinder und Jugendliche mit Impfung oder Genesen oder Test)
- * 27.1. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) im Rahmen des [Openlabs](https://zuse-computer-museum.com/angebote/veranstaltungen/). Donnerstag!
-
 Februar:
 
  * 1.2. in der Kufa
- * 24.2. im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) (Open Lab. Kunst mit dem Penplotter)
+ * 24.2. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - Open Lab
 
 März:
 
