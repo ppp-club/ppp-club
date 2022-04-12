@@ -21,13 +21,30 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 Februar:
 
  * 1.2. in der Kufa
- * 24.2. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - Open Lab
 
-März:
+April:
 
- * 1.3. in der Kufa
- * 15.3. in der Kufa
- * 29.3. in der Kufa
+ * 12.4. in der Kufa, fällt krankheitsbedingt leider aus
+ * 14.4. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [Open Lab](https://zuse-computer-museum.com/angebote/veranstaltungen/), auch 15-18 Uhr
+ * 26.4. in der Kufa
+
+Mai:
+
+ * 06.5. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [offener Computer-Stammtisch](https://zuse-computer-museum.com/angebote/veranstaltungen/), 16-18 Uhr
+ * 10.5. in der Kufa
+ * 24.4. in der Kufa
+
+Juni:
+
+ * 07.6. in der Kufa
+ * 21.6. in der Kufa
+
+Juli:
+
+ * 05.7. in der Kufa
+ * 19.7. in der Kufa
+
+August - Ferien
  
 ## Wer?
 
