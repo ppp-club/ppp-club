@@ -18,10 +18,6 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-Februar:
-
- * 1.2. in der Kufa
-
 April:
 
  * 12.4. in der Kufa, fällt krankheitsbedingt leider aus
