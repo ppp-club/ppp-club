@@ -12,7 +12,7 @@ Alle Interessierten sind herzlich eingeladen.
 
 Im Seminarraum der [Kulturfabrik (Kufa) in Hoyerswerda](https://graphhopper.com/maps/?point=&point=51.438902%2C14.245647). Hoyerswerda ist auch [per Bus oder Bahn erreichbar](https://www.bahn.de) und vom Bahnhof sind es dann [noch eine 1/4 Stunde zu Fuß](https://graphhopper.com/maps/?point=Hoyerswerda%20Bahnhofsallee%201&point=Kulturfabrik%20Hoyerswerda&vehicle=foot).
 
-Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rechts). 
+Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rechts).
 
 ## Wann?
 
@@ -20,28 +20,28 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
 April:
 
- * 12.4. in der Kufa, fällt krankheitsbedingt leider aus
- * 14.4. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [Open Lab](https://zuse-computer-museum.com/angebote/veranstaltungen/), auch 15-18 Uhr
- * 26.4. in der Kufa
+- 12.4. in der Kufa, fällt krankheitsbedingt leider aus
+- 14.4. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [Open Lab](https://zuse-computer-museum.com/angebote/veranstaltungen/), auch 15-18 Uhr
+- 26.4. in der Kufa
 
 Mai:
 
- * 06.5. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [offener Computer-Stammtisch](https://zuse-computer-museum.com/angebote/veranstaltungen/), 16-18 Uhr
- * 10.5. in der Kufa
- * 24.4. in der Kufa
+- 06.5. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [offener Computer-Stammtisch](https://zuse-computer-museum.com/angebote/veranstaltungen/), 16-18 Uhr
+- 10.5. in der Kufa
+- 24.4. in der Kufa
 
 Juni:
 
- * 07.6. in der Kufa
- * 21.6. in der Kufa
+- 07.6. in der Kufa
+- 21.6. in der Kufa
 
 Juli:
 
- * 05.7. in der Kufa
- * 19.7. in der Kufa
+- 05.7. in der Kufa
+- 19.7. in der Kufa
 
 August - Ferien
- 
+
 ## Wer?
 
 Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
@@ -69,25 +69,25 @@ var fun = function software(yourLang) {
 
 Das Hauptthema ist die Softwareentwicklung und wie sie unser Zusammenleben auch hier in Hoyerswerda verbessern kann. Die Unterthemen werden durch die Teilnehmer festgelegt - zum Beispiel:
 
- * Open Source Software
- * Software für [OpenStreetMap](https://www.openstreetmap.org)
- * Softwarenutzung in der Schule wie z.B. das [Bildungspaket von Digitalcourage](https://digitalcourage.de/kinder-und-jugendliche/bildungspaket).
- * 'Neue' Programmiersprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
- * Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
- * Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
- * [Calliope](https://calliope.cc) oder [ESP32](https://de.wikipedia.org/wiki/ESP32) Programmierung
- * ...
- 
+- Open Source Software
+- Software für [OpenStreetMap](https://www.openstreetmap.org)
+- Softwarenutzung in der Schule wie z.B. das [Bildungspaket von Digitalcourage](https://digitalcourage.de/kinder-und-jugendliche/bildungspaket).
+- 'Neue' Programmiersprachen wie Kotlin ([coroutines](https://www.youtube.com/watch?v=hb0hfHVWCS0)!) oder Rust
+- Spezial Routenplanungssoftware, wie z.B. [Routenplanung in Sorbisch](https://graphhopper.com/maps/?point=GraphHopper%20Hoyerswerda&point=Wittichenau&locale=hsb&layer=Sorbian%20Language)
+- Software zur Verbesserung vom Nahverkehr benötigt [offene Daten](https://rettedeinennahverkehr.de/)
+- [Calliope](https://calliope.cc) oder [ESP32](https://de.wikipedia.org/wiki/ESP32) Programmierung
+- ...
+
 ## Projekte
 
- * [Potat0Map](https://github.com/UnrealValentin/potato-maps)
- * [socket test](https://github.com/karussell/socket-testing)
- * [IoT test](https://github.com/karussell/iot-test) (via VSCode)
- * Aufsetzen einer [BBB](https://github.com/bigbluebutton/bbb-install) Instanz für z.B. Fernunterricht
- * Probiere andere [Webseite](https://github.com/Brandenburger-Maker/Brandenburger-Maker.github.io) als Grundlage für PPP
- * telegram bot
- * Mit godot game engine spielen
- * Mit dem neuen "code with me Feature" von IntelliJ spielen
+- [Potat0Map](https://github.com/UnrealValentin/potato-maps)
+- [socket test](https://github.com/karussell/socket-testing)
+- [IoT test](https://github.com/karussell/iot-test) (via VSCode)
+- Aufsetzen einer [BBB](https://github.com/bigbluebutton/bbb-install) Instanz für z.B. Fernunterricht
+- Probiere andere [Webseite](https://github.com/Brandenburger-Maker/Brandenburger-Maker.github.io) als Grundlage für PPP
+- telegram bot
+- Mit godot game engine spielen
+- Mit dem neuen "code with me Feature" von IntelliJ spielen
 
 ## Alte Versionen
 
@@ -95,7 +95,7 @@ Alte Versionen dieser Seite finden sich [hier](https://github.com/graphhopper/pp
 
 ## Ähnliche Projekte in Hoyerswerda und Umgebung
 
-Das Zuse-Computer-Museum bietet oft [interessante Veranstaltungen](https://zuse-computer-museum.com/angebote/veranstaltungen/) mit "Computer-Bezug" für Jung und Alt. 
+Das Zuse-Computer-Museum bietet oft [interessante Veranstaltungen](https://zuse-computer-museum.com/angebote/veranstaltungen/) mit "Computer-Bezug" für Jung und Alt.
 
 In Spremberg gibt es das Projekt ["Offene Werkstatt"](https://www.owspremberg.de).
 
@@ -103,14 +103,14 @@ Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet
 
 ## Berichterstattung über PPP
 
- * [Mai 2019, Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
- * [Mai 2019, hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
- * [Juli 2019, Sächsische Zeitung](https://www.saechsische.de/plus/programmierclub-und-fabmobil-in-einem-hoyerswerda-5097719.html)
-* [Juli 2019, Lausitzer Rundschau](https://www.lr-online.de/lausitz/hoyerswerda/das-fabmobil-bringt-die-zukunft-nach-hoyerswerda_aid-44292517)
+- [Mai 2019, Sächsische Zeitung](https://www.saechsische.de/programmier-club-startet-5066220.html)
+- [Mai 2019, hoyte24.de](https://hoyte24.de/newsreader2/programmier-club-startet.html)
+- [Juli 2019, Sächsische Zeitung](https://www.saechsische.de/plus/programmierclub-und-fabmobil-in-einem-hoyerswerda-5097719.html)
+- [Juli 2019, Lausitzer Rundschau](https://www.lr-online.de/lausitz/hoyerswerda/das-fabmobil-bringt-die-zukunft-nach-hoyerswerda_aid-44292517)
 
 ## Since
 
-2019 - 2021
+2019 - 2022
 
 ## Kontakt / Impressum
 
