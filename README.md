@@ -18,12 +18,6 @@ Der Seminarraum ist in der Kulturfabrik im Erdgeschoss (kurz vor der Treppe rech
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-April:
-
-- 12.4. in der Kufa, fällt krankheitsbedingt leider aus
-- 14.4. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [Open Lab](https://zuse-computer-museum.com/angebote/veranstaltungen/), auch 15-18 Uhr
-- 26.4. in der Kufa
-
 Mai:
 
 - 06.5. Der PPP Club empfiehlt einen Besuch im [ZCOM](https://graphhopper.com/maps/?point=&point=zcom%20hoyerswerda) - [offener Computer-Stammtisch](https://zuse-computer-museum.com/angebote/veranstaltungen/), 16-18 Uhr
