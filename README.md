@@ -20,7 +20,7 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
 Juni:
 
-- 07.6. in der Kufa
+- 07.6. muss leider ausfallen
 - 21.6. in der Kufa
 
 Juli:
