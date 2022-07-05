@@ -26,7 +26,6 @@ Juni:
 Juli:
 
 - 05.7. in der Kufa
-- 19.7. in der Kufa
 
 August - Ferien
 
