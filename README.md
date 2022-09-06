@@ -20,7 +20,7 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
 September:
 
-- 06.9. in der Kufa
+- 06.9. in der Kufa (ausnahmsweise in der Medienwerkstatt, Treppe hoch)
 - 20.9. in der Kufa
 
 Oktober:
