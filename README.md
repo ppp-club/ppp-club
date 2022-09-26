@@ -22,10 +22,11 @@ September:
 
 - 06.9. in der Kufa
 - 20.9. in der Kufa
+- 27.9. in der Kufa
 
 Oktober:
 
-- 04.10. in der Kufa
+- ~04.10. in der Kufa~ (kann leider nicht stattfinden, wurde vorverlegt auf 27.9.)
 
 November:
 
