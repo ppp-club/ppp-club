@@ -18,21 +18,20 @@ Der Raum befindet sich links vor der Treppe in der Kulturfabrik ("Open Space").
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-September:
+Januar 2023:
 
-- 06.9. in der Kufa
-- 20.9. in der Kufa
-- 27.9. in der Kufa
+- 10.1. in der Kufa
+- 24.1. in der Kufa
 
-Oktober:
+Februar:
 
-- ~04.10. in der Kufa~ (kann leider nicht stattfinden, wurde vorverlegt auf 27.9.)
+- 7.2. in der Kufa
+- 21.2. in der Kufa
 
-November:
+März:
 
-- 01.11. in der Kufa
-- 15.11. in der Kufa
-- 29.11. in der Kufa
+- 7.3. in der Kufa
+- 21.3. in der Kufa
 
 ## Wer?
 
@@ -44,7 +43,7 @@ You don't speak German? No problem if you know a bit English! Join us and contac
 
 ## Kosten?
 
-Die Veranstaltung ist durch unseren Sponsor, die [GraphHopper GmbH](https://www.graphhopper.com/), für alle Teilnehmer kostenfrei.
+Die Veranstaltung ist für alle Teilnehmer kostenfrei.
 
 ## Was soll mitgebracht werden?
 
@@ -106,6 +105,6 @@ Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet
 
 ## Kontakt / Impressum
 
-Peter Karich, Käthe-Niederkirchner-Straße 30, 02977 Hoyerswerda
+Karich, Kirchstraße 17, 02977 Hoyerswerda
 
 Email: peter-ppp@graphhopper.com
