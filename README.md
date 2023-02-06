@@ -101,7 +101,7 @@ Weitere ähnliche Projekte haben wir [hier](./similar-projects.html) aufgelistet
 
 ## Since
 
-2019 - 2022
+2019 - 2023
 
 ## Kontakt / Impressum
 
