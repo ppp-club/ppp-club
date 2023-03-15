@@ -21,7 +21,7 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 Februar:
 
 - 7.2. in der Kufa
-- 28.2. in der Kufa
+- 28.2. im [Zuse Computer Museum](https://zuse-computer-museum.com/) (auch ab 15 Uhr)
 
 März:
 
