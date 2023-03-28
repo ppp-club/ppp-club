@@ -18,16 +18,6 @@ Der Raum befindet sich links vor der Treppe in der Kulturfabrik ("Open Space").
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-Februar:
-
-- 7.2. in der Kufa
-- 28.2. im [Zuse Computer Museum](https://zuse-computer-museum.com/) (auch ab 15 Uhr)
-
-März:
-
-- 14.3. in der Kufa
-- 28.3. in der Kufa
-
 April:
 
 - 18.4. in der Kufa
