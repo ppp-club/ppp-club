@@ -28,6 +28,23 @@ Mai:
 - 16.5. in der Kufa
 - 30.5. in der Kufa
 
+Juni:
+
+- 13.6. in der Kufa
+- 27.6. in der Kufa
+
+Sommerpause
+
+August:
+
+- 29.8. in der Kufa
+
+September:
+
+- 12.9. in der Kufa
+- 26.9. in der Kufa
+
+
 ## Wer?
 
 Jugendliche und Erwachsene bis ins hohe Alter sind gern gesehene Gäste. Erwartet wird ein respektvoller Umgang miteinander.
