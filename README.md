@@ -18,31 +18,30 @@ Der Raum befindet sich links vor der Treppe in der Kulturfabrik ("Open Space").
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-April:
-
-- 18.4. in der Kufa
-
-Mai:
-
-- 02.5. in der Kufa
-- 16.5. in der Kufa
-- 30.5. in der Kufa
-
-Juni:
-
-- 13.6. in der Kufa
-- 27.6. in der Kufa
-
-Sommerpause
-
-August:
-
-- 29.8. in der Kufa
-
 September:
 
 - 12.9. in der Kufa
 - 26.9. in der Kufa
+
+Oktober:
+
+- 24.10. in der Kufa
+
+November:
+
+- 7.11. in der Kufa
+- 21.11. in der Kufa
+
+Dezember
+
+- 5.12. in der Kufa
+- 19.12. in der Kufa
+
+Januar
+
+- 16.1. in der Kufa
+- 20.1. in der Kufa
+
 
 
 ## Wer?
