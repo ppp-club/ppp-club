@@ -40,7 +40,7 @@ Dezember
 Januar
 
 - 16.1. in der Kufa
-- 20.1. in der Kufa
+- 30.1. in der Kufa
 
 
 
