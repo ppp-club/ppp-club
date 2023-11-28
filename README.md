@@ -34,7 +34,8 @@ November:
 
 Dezember
 
-- 5.12. in der Kufa
+- ~5.12. in der Kufa~ wird um 1 Woche verschoben
+- 12.12. Ersatztermin in der Kufa
 - 19.12. in der Kufa
 
 Januar
