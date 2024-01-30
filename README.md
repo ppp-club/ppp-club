@@ -24,7 +24,7 @@ Januar 2024
 - 30.1. in der Kufa
 
 Februar
-- 13.2. in der Kufa
+- 06.2. in der Kufa
 - 27.2. in der Kufa
 
 
