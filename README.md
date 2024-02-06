@@ -27,6 +27,22 @@ Februar
 - 06.2. in der Kufa
 - 27.2. in der Kufa
 
+März
+- 12.3. in der Kufa
+- 26.3. in der Kufa
+
+April
+- 9.4. in der Kufa
+- 23.4. in der Kufa
+
+Mai
+- 7.5. in der Kufa
+- 21.5. in der Kufa
+
+Juni
+- 4.6. in der Kufa
+- 18.6. in der Kufa
+
 
 ## Wer?
 
