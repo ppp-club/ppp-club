@@ -37,10 +37,9 @@ April
 
 Mai
 - 7.5. in der Kufa
-- ~~21.5. in der Kufa~~ entfällt, da Pfingstferien
+- 28.5. in der Kufa
 
 Juni
-- 4.6. in der Kufa
 - 18.6. in der Kufa
 
 
