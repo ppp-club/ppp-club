@@ -20,7 +20,7 @@ Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
 Mai 2024
 - 7.5. in der Kufa
-- ~28.5. in der Kufa~
+- (28.5. in der Kufa, fällt aus)
 
 Juni 2024
 - 04.6. in der Kufa
