@@ -18,11 +18,11 @@ Der Raum befindet sich links vor der Treppe in der Kulturfabrik ("Open Space").
 
 Der PPP Club findet Dienstag von 15 bis 18 Uhr alle 2 Wochen statt:
 
-Mai
+Mai 2024
 - 7.5. in der Kufa
 - ~28.5. in der Kufa~
 
-Juni
+Juni 2024
 - 04.6. in der Kufa
 - 18.6. in der Kufa. Das letzte Mal. Good bye PPP Club!
 
